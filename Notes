@@ -1,0 +1,8 @@
+Framework :- Which provides the flow of software application and tells the developer what it needs and calls the code which is provided by the developer as required.
+
+Library :- the application calls the code from the library
+
+CDN :- Content delivery network , which provide cached internet content from a network location to user to speedup its delivery.
+
+CROSS ORIGIN - which provides better error handling experience.
+
