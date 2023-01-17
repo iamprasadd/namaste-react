@@ -6,3 +6,9 @@ CDN :- Content delivery network , which provide cached internet content from a n
 
 CROSS ORIGIN - which provides better error handling experience.
 
+class -3
+NPM:-is a default package manager for javascript runtime env n0de js.
+
+Parcel and webpacks are bundlers which are used for javascript or typescript code that helps you to minify ,clean, compact the code which makes easier to request to respond to the server is easier
+
+
